@@ -12,4 +12,4 @@ It is all related to IoT
 > 
 > This is the Foundation is non-profit organization.
 >
-> ## This is an H2 in a blockquote
+> ## Thank You
